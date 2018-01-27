@@ -7,7 +7,7 @@
 	<bean id="myInsurance" class="org.martin.spring.BikeInsurance">
 		<constructor-arg>
 			<list>
-			<value>John</value>
+				<value>John</value>
 				<value>Karol</value>
 				<value>Mike</value>
 			</list>
